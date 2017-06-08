@@ -9,8 +9,19 @@
 ## Datakällor, öppna API:er
 Lantmäteriet
 
+https://opendata.lantmateriet.se/
+
+
 SMHI
+
+https://opendata.smhi.se/apidocs/
+
 
 Trafikverket
 
+https://api.trafikinfo.trafikverket.se/
+
+
 Twitter
+
+https://dev.twitter.com/rest/public
