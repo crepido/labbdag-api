@@ -47,6 +47,11 @@ Hackaton Datakällor
 
 http://hackforsweden.se/sv/data/
 
+
+Göteborg
+
+http://data.goteborg.se
+
 ## Möjliga verktyg
 
 Azure API Management 
