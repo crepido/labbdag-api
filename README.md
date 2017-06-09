@@ -43,6 +43,9 @@ Twitter
 
 https://dev.twitter.com/rest/public
 
+Hackaton Datakällor
+
+http://hackforsweden.se/sv/data/
 
 ## Möjliga verktyg
 
