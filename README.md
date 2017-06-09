@@ -63,3 +63,13 @@ Mule ESB
 react.js 
 
 Angular 2
+
+
+
+15 minuters sprintar
+
+## Frontend / Business case
+
+## Backend
+
+
